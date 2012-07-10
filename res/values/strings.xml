@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Lap Timer</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Lap Timer</string>
+    <string name="facebook_app_id">431500586872217</string>
+    <string name="record_start">Start</string>
+    <string name="record_stop">Stop</string>
+
+</resources>
